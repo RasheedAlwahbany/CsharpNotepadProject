@@ -8,6 +8,7 @@ namespace Notepade
 {
     static class Program
     {
+        //Eng.Rasheed Adnan Al-Wahbany ^_^
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

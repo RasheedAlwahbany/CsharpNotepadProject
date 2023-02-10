@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
+// Eng.Rasheed Adnan Al-Wahbany ^_^
 namespace Notepade
 {
     public partial class trying : Form
