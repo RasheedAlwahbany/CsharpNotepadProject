@@ -1,0 +1,20 @@
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\bin\Debug\Notepade.exe.config
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.exe
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.pdb
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\bin\Debug\Notepade.exe
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\bin\Debug\Notepade.pdb
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.csprojResolveAssemblyReference.cache
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.Form1.resources
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.Properties.Resources.resources
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.csproj.GenerateResource.Cache
+C:\Users\RAGT\documents\visual studio 2015\Projects\Notepade\Notepade\obj\Debug\Notepade.trying.resources
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\bin\Debug\Notepade.exe.config
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.exe
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.pdb
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\bin\Debug\Notepade.exe
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\bin\Debug\Notepade.pdb
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.csprojResolveAssemblyReference.cache
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.Form1.resources
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.Properties.Resources.resources
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.trying.resources
+C:\Users\rashe\Music\CsharpNotepadProject\Notepade\obj\Debug\Notepade.csproj.GenerateResource.Cache
